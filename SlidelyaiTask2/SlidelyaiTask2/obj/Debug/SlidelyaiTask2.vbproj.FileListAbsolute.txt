@@ -1,0 +1,17 @@
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\obj\Debug\SlidelyaiTask2.vbproj.AssemblyReference.cache
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\obj\Debug\SlidelyaiTask2.CreateSubmissionForm.resources
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\obj\Debug\SlidelyaiTask2.MainForm.resources
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\obj\Debug\SlidelyaiTask2.Resources.resources
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\obj\Debug\SlidelyaiTask2.ViewSubmissionsForm.resources
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\obj\Debug\SlidelyaiTask2.vbproj.GenerateResource.cache
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\obj\Debug\SlidelyaiTask2.vbproj.CoreCompileInputs.cache
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\bin\Debug\SlidelyaiTask2.exe.config
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\bin\Debug\SlidelyaiTask2.exe
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\bin\Debug\SlidelyaiTask2.pdb
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\bin\Debug\SlidelyaiTask2.xml
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\obj\Debug\SlidelyaiTask2.exe
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\obj\Debug\SlidelyaiTask2.xml
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\obj\Debug\SlidelyaiTask2.pdb
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\bin\Debug\Newtonsoft.Json.dll
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\bin\Debug\Newtonsoft.Json.xml
+D:\Code\slidelyai-task\frontend\SlidelyaiTask2\SlidelyaiTask2\obj\Debug\Slidelya.9255E2AA.Up2Date
